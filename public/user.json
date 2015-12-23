@@ -1,0 +1,30 @@
+{
+  "accountType": "Personal",
+  "name": {
+    "salutation": "Mr.",
+    "firstName": "Bonzop",
+    "middleName": "Simore",
+    "lastName": "Zaius"
+  },
+  "dateOfBirth": "1968-01-01",
+  "address": {
+    "line1": "1968 Ape Way",
+    "city": "Austin",
+    "state": "TX",
+    "postalCode": "78750",
+    "countryCode": "US"
+  },
+  "contactPhoneNumber": "5126914160",
+  "homePhoneNumber": "5126914160",
+  "mobilePhoneNumber": "5126914160",
+  "currencyCode": "USD",
+  "citizenshipCountryCode": "US",
+  "preferredLanguageCode": "en_US",
+  "notificationURL": "https://paypal-sdk-samples.herokuapp.com/adaptive_accounts/ipn_notify",
+  "emailAddress": "newEmailAddress@paypal.com",
+  "registrationType": "Web",
+  "createAccountWebOptions": {
+    "returnUrl": "https://paypal-sdk-samples.herokuapp.com/adaptive_accounts/create_account",
+    "showAddCreditCard": true
+  }
+}
